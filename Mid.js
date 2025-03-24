@@ -7,6 +7,7 @@ function Mid(){
             <div>
               <h1>
                 hello razzaq
+                and shar
               </h1>
              </div>
         
